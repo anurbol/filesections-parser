@@ -7,6 +7,9 @@ describe('triage tests and delete me', () => {
         throw new Error('______')
     })
 
+    // todo write test for every case in "next()" function
+    // todo also make a very complex stub and test that filesections are parsed correctly
+
     it('tests must be triaged', () => {
         throw new Error('tests are not triaged yet')
     })

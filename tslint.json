@@ -20,7 +20,10 @@
         "quotemark": [
             true,
             "single"
-        ]
+        ],
+        "interface-over-type-literal": false,
+        "object-literal-sort-keys": false,
+        "array-type": false
     },
     "rulesDirectory": []
 }
