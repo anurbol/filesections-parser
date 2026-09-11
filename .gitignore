@@ -2,4 +2,7 @@ node_modules
 .history
 .vscode
 tmp
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
